@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Carolina Villarraga-Morales</h1>
 <h3 align="center">a lifelong learner who is also a geological engineer from Colombia 🇨🇴</h3>
 
-- 🔭 I’m currently working on **my trading bot**
+- 🔭 I’m currently working as a **mentor** at SoyHenry :yellow_heart:
 
 - 🌱 I’m currently learning **Spatial Data Science**
 
@@ -13,7 +13,7 @@
 
 - 💬 About me **I have a background in experimental design, and analytical data analysis, and have a deep passion for volcanoes🌋. I am currently looking to integrate this knowledge into the data world 👩‍💻 by upskilling with technologies such as Python, SQL, Spark, Databricks, Streamlit and Power BI**
 
-- 📫 How to reach me **carolina.villarraga.m@gmail.com**
+- 📫 How to reach me **cvillarragamo@gmail.com**
 
 - ⚡ Fun fact **I am exchanging my seniority (Senior) as a geologist to start fresh as a junior in the data world just for my own freedom ✨🌟😁.**
 
