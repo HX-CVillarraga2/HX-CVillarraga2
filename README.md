@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Carolina Villarraga-Morales</h1>
 <h3 align="center">a lifelong learner who is also a geological engineer from Colombia 🇨🇴</h3>
 
-- 🔭 I’m currently looking for new opportunities in any environment that aligns with my expertise in GIS, Python programming, and data analysis  💚_heart:
+- 🔭 I’m currently looking for new opportunities in any environment that aligns with my expertise in GIS, Python programming, and data analysis  💚
 
 - 🌱 I’m currently learning **Spatial Data Science**
 
