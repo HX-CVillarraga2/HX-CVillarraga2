@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **cvillarragamo@gmail.com**
 
-- ⚡ Fun fact **I am exchanging my seniority (Senior) as a geologist to start fresh as a junior in the data world just for my own freedom ✨🌟😁.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
